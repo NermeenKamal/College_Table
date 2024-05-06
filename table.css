@@ -1,0 +1,11 @@
+table , tr, td{
+  border: 36px solid #2a252500;
+  text-align: center;
+  font-size: 39px;
+}
+.headd{
+  background-color: #d15268;
+}
+.days{
+  background-color:#facece;
+}
